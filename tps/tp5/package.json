@@ -1,0 +1,17 @@
+{
+  "name": "tp5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "TOKEN=6675328202:AAGt0_HCO2-GXsRayGJSuLhXGI5SqDT_Wto node app.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-webcam": "^0.8.2",
+    "telegraf": "^4.14.0"
+  }
+}
